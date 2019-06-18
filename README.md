@@ -5,7 +5,7 @@ The project should aim to provide the following features (see [this](https://git
 
 - MVVM and RxUI based
 - Login page at the beginning of app
-- Menu + master-detail page
-- A simple Todo data entity
+- `NavigationPage` with another 2-3 pages 
+- A simple Todo etc. data entity manipulation scheme
 - Fluent design
-- Minimal responsiveness between mobile and desktop
+- Basic responsiveness between mobile and desktop
